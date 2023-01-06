@@ -108,7 +108,7 @@ requested version" message in the "Command Prompt" application, close the
 1. Open the "Visual Studio Code" application using the "Start" menu
 2. Click "View" in the toolbar, then click "Extensions" in the dropdown menu, or
    use the shortcut `<Control>` + `<Shift>` + `X`
-3. Search for "Remote - WSL" and click on the item in the list with the same
+3. Search for "WSL" and click on the item in the list with the same
    name (Note: the description should start with "Open any folder in the Windows
    Subsystem for Linux (WSL) …")
 4. Click the "Install" button near the top of the page
